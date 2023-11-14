@@ -1,3 +1,5 @@
+# Deprecated - Do Not Use
+
 ### Introduction
 
 This is an OpenShift demo showing how to do GitOps in a kubernetes way using tools like [ArgoCD](https://argoproj.github.io/argo-cd/) and [Kustomize](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/).
